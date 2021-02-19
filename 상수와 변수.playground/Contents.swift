@@ -38,4 +38,4 @@ var nickName: String
 nickName = "eungu"
 
 // 변수는 차후에 다시 다른 값을 할당해도 문제가 없다
-nickName = "은구"
+nickName = "은구짱"
